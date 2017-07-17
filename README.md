@@ -1,1 +1,1 @@
-# maven-repo
+http://www.dhgarrette/maven-repository/
