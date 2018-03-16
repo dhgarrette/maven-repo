@@ -1,1 +1,1 @@
-http://www.dhgarrette/maven-repository/
+http://www.dhgarrette.com/maven-repository/
